@@ -1,0 +1,33 @@
+/*Style for body*/
+body {
+    background: rgb(181, 7, 224);
+    text-align: center;
+    }
+    /*Style for image*/
+    #album {
+    width: 350px;
+    height: 250px;
+    border-style: groove;
+    border-color: darkmagenta;
+    border: 10px;
+    border-radius: 50px;
+    padding: 5px;
+    }
+    /*Style for button*/
+    #bnext {
+    color: rgb(128, 0, 0);
+    background: rgb(0, 204, 255);
+    border-style: groove;
+    border-color: darkmagenta;
+    border: 10px;
+    border-radius: 50px;
+    }
+    #titlep {
+    word-spacing: 10px;
+    font-variant: small-caps;
+    font-size: 80px;
+    }
+    #pname{
+    font-size: 50px;
+    }
+    
